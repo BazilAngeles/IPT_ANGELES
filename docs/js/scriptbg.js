@@ -1,0 +1,3 @@
+document.getElementById('changeTextButton').addEventListener('click', function() {
+    document.getElementById('myParagraph').innerText = 'Im Bazil "Biboy" Angeles is a passionate and dedicated student currently studying in City of Malabon University at Longos, Malabon City . With a strong interest in Networking and Programming skills, Im Bazil Angeles willing is committed to expanding knowledge and honing skills in Programming and Computers. Outside of academics, Im enjoy playing basketball, motorcycle rides, and playing online games which help I maintain a well-rounded and balanced lifestyle. I driven by a desire to travel around the world, such as "make a difference in the world", "pursue my career dream" or "and help my parents".';
+});
